@@ -1,0 +1,7 @@
+C:\Users\chvt\Source\Repos\bankTest\unittest\bin\Debug\net8.0\.msCoverageSourceRootsMapping_unittest
+C:\Users\chvt\Source\Repos\bankTest\unittest\obj\Debug\net8.0\unittest.csproj.AssemblyReference.cache
+C:\Users\chvt\Source\Repos\bankTest\unittest\obj\Debug\net8.0\unittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chvt\Source\Repos\bankTest\unittest\obj\Debug\net8.0\unittest.AssemblyInfoInputs.cache
+C:\Users\chvt\Source\Repos\bankTest\unittest\obj\Debug\net8.0\unittest.AssemblyInfo.cs
+C:\Users\chvt\Source\Repos\bankTest\unittest\obj\Debug\net8.0\unittest.csproj.CoreCompileInputs.cache
+C:\Users\chvt\Source\Repos\bankTest\unittest\obj\Debug\net8.0\unittest.sourcelink.json

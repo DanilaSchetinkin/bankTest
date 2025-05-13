@@ -24,5 +24,15 @@ namespace unittest
             { 
             consoleOutput?.Dispose(); 
         }
+
+        [Test]
+        public void otk_Validate_createAccount()
+        {
+            Console.SetIn(new StringReader("Marcus Gray\n1000000\n"));
+
+            testAccount.otk();
+
+            Assert.AreEqual("Marcus Gray", testAccount);
+        }
     }
 }
