@@ -10,8 +10,8 @@ namespace bank
 {
     public class account
     {
-        private string num;
-        private string name;
+        public string num;
+        public string name;
         public float sum;
         public float summ;
         public int index;

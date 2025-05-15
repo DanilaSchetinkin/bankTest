@@ -21,8 +21,8 @@ namespace unittest
 
         [TearDown]
         public void CleanUp()
-            { 
-            consoleOutput?.Dispose(); 
+        {
+            consoleOutput?.Dispose();
         }
 
         [Test]
@@ -32,7 +32,32 @@ namespace unittest
 
             testAccount.otk();
 
-            Assert.AreEqual("Marcus Gray", testAccount);
+            Assert.AreEqual("Marcus Gray", testAccount.name);
+            Assert.AreEqual(1000000, testAccount.sum);
+            
         }
+
+        [Test]
+        public void otk_Validate_sum_zero()
+        {
+            Console.SetIn(new StringReader("Marcus Gay\n0\n"));
+            testAccount.otk();
+            Assert.IsNotNull(testAccount.num);
+        }
+
+        [Test]
+        public void otk_Validate_NumError()
+        {
+            Console.SetIn(new StringReader("Marcus Gay\n400\n"));
+            testAccount.otk();
+            StringAssert.Contains("Сумма слишком мала, попробуйте ещё раз!", consoleOutput.ToString());
+        }
+
+        [Test]
+        public void num_gen_GenerateLenght()
+            {
+            testAccount.num_gen();
+            Assert.AreEqual(20, testAccount.num.Length);
+            }
     }
 }

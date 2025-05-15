@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OIboIGVAHEI=",
+  "dgSpecHash": "miy3eKn9xYo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chvt\\Source\\Repos\\bankTest\\banktest\\banktest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\class_student\\Source\\Repos\\bankTest\\banktest\\banktest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\class_student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\class_student\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\class_student\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+  ],
   "logs": []
 }
