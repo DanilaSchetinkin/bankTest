@@ -50,7 +50,15 @@ namespace unittest
         {
             Console.SetIn(new StringReader("Marcus Gay\n400\n"));
             testAccount.otk();
-            StringAssert.Contains("Сумма слишком мала, попробуйте ещё раз!", consoleOutput.ToString());
+            Assert.That(consoleOutput.ToString(), Is.EqualTo("Сумма слишком мала, попробуйте ещё раз!"));
+        }
+
+        [Test]
+        public void otk_Valiadte_NumName()
+        {
+            Console.SetIn(new StringReader("dadwa123"));
+            testAccount.otk();
+            Assert.That(consoleOutput.ToString(), Is.EqualTo("Неверное имя пользователя"));
         }
 
         [Test]

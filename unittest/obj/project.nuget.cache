@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "84M/xjwocYs=",
+  "dgSpecHash": "kLtI0TWdHvPNcPQZOZAOvAHpBg2vcn3F8K6M3t0ZwjMbGTIWwBfy4UoZyzOf6kSSwusx4EKKTr6+bGzvgRRfNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\class_student\\Source\\Repos\\bankTest\\unittest\\unittest.csproj",
+  "projectFilePath": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\unittest\\unittest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\class_student\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\class_student\\.nuget\\packages\\microsoft.codecoverage\\17.13.0\\microsoft.codecoverage.17.13.0.nupkg.sha512",
