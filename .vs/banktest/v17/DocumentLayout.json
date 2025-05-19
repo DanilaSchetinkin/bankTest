@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\",
+  "WorkspaceRootPath": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\source\\repos\\bankTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|c:\\users\\class_student\\source\\repos\\banktest\\banktest\\unittest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|d:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\banktest\\unittest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|solutionrelative:unittest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|c:\\users\\class_student\\source\\repos\\banktest\\banktest\\banktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|solutionrelative:banktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|d:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\banktest\\banktest\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|solutionrelative:banktest\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|c:\\users\\class_student\\source\\repos\\banktest\\banktest\\unittest\\unittest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|solutionrelative:unittest\\unittest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|c:\\users\\class_student\\source\\repos\\banktest\\banktest\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|d:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\banktest\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|c:\\users\\class_student\\source\\repos\\banktest\\banktest\\banktest\\banktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|d:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\banktest\\banktest\\banktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|solutionrelative:banktest\\banktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|c:\\users\\class_student\\source\\repos\\banktest\\banktest\\banktest\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|solutionrelative:banktest\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|d:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\banktest\\banktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9C2D61-6D00-48D6-A835-CC5BB4123D6F}|banktest\\banktest.csproj|solutionrelative:banktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|d:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\source\\repos\\banktest\\unittest\\unittest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65929ABB-0851-4FF0-A04C-702A1154A980}|unittest\\unittest.csproj|solutionrelative:unittest\\unittest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -46,51 +58,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "banktest.csproj",
-              "DocumentMoniker": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\banktest\\banktest.csproj",
+              "DocumentMoniker": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\Source\\Repos\\bankTest\\banktest\\banktest.csproj",
               "RelativeDocumentMoniker": "banktest\\banktest.csproj",
-              "ToolTip": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\banktest\\banktest.csproj",
+              "ToolTip": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\Source\\Repos\\bankTest\\banktest\\banktest.csproj",
               "RelativeToolTip": "banktest\\banktest.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-13T12:10:17.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "unittest.csproj",
-              "DocumentMoniker": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\unittest\\unittest.csproj",
+              "DocumentMoniker": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\Source\\Repos\\bankTest\\unittest\\unittest.csproj",
               "RelativeDocumentMoniker": "unittest\\unittest.csproj",
-              "ToolTip": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\unittest\\unittest.csproj",
+              "ToolTip": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\Source\\Repos\\bankTest\\unittest\\unittest.csproj",
               "RelativeToolTip": "unittest\\unittest.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-13T12:02:20.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "unittest",
-              "DocumentMoniker": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\unittest\\unittest.csproj",
-              "RelativeDocumentMoniker": "unittest\\unittest.csproj",
-              "ToolTip": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\unittest\\unittest.csproj",
-              "RelativeToolTip": "unittest\\unittest.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T11:19:14.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\banktest\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\source\\repos\\bankTest\\banktest\\Program.cs",
               "RelativeDocumentMoniker": "banktest\\Program.cs",
-              "ToolTip": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\banktest\\Program.cs",
+              "ToolTip": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\source\\repos\\bankTest\\banktest\\Program.cs",
               "RelativeToolTip": "banktest\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:08:43.878Z",
               "EditorCaption": ""
@@ -99,14 +99,36 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cs",
-              "DocumentMoniker": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\unittest\\test.cs",
+              "DocumentMoniker": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\source\\repos\\bankTest\\unittest\\test.cs",
               "RelativeDocumentMoniker": "unittest\\test.cs",
-              "ToolTip": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\unittest\\test.cs",
+              "ToolTip": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\source\\repos\\bankTest\\unittest\\test.cs",
               "RelativeToolTip": "unittest\\test.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwDQAAAAMAAAA",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAnwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:00:01.331Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "unittest",
+              "DocumentMoniker": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\Source\\Repos\\bankTest\\unittest\\unittest.csproj",
+              "RelativeDocumentMoniker": "unittest\\unittest.csproj",
+              "ToolTip": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\Source\\Repos\\bankTest\\unittest\\unittest.csproj",
+              "RelativeToolTip": "unittest\\unittest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T11:19:14.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 993,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
@@ -117,11 +139,11 @@
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
         "Id": "f495a2cc-7ae8-4a97-877e-d0530a370cb9",
-        "Display": 1,
-        "X": 404,
-        "Y": 77,
-        "Width": 1430,
-        "Height": 660,
+        "Display": 0,
+        "X": 955,
+        "Y": 0,
+        "Width": 970,
+        "Height": 1045,
         "WindowState": 0
       },
       "DocumentGroups": [
@@ -131,13 +153,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "account.cs",
-              "DocumentMoniker": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\banktest\\account.cs",
+              "DocumentMoniker": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\source\\repos\\bankTest\\banktest\\account.cs",
               "RelativeDocumentMoniker": "banktest\\account.cs",
-              "ToolTip": "C:\\Users\\class_student\\source\\repos\\bankTest\\bankTest\\banktest\\account.cs",
+              "ToolTip": "D:\\Users\\\u0410\u041B\u0415\u041A\u0421\u0410\u041D\u0414\u0420\\source\\repos\\bankTest\\banktest\\account.cs",
               "RelativeToolTip": "banktest\\account.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:08:31.239Z",
               "EditorCaption": ""

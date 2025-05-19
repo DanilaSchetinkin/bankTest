@@ -67,5 +67,32 @@ namespace unittest
             testAccount.num_gen();
             Assert.AreEqual(20, testAccount.num.Length);
             }
+
+        public void TopUp_add()
+        {
+            testAccount.sum = 3200;
+            Console.SetIn(new StringReader("500\n"));
+            testAccount.top_up();
+            Assert.AreEqual(3700,testAccount.sum);
+        }
+
+        public void TopUp_floatNumber()
+        {
+            testAccount.sum = 3200;
+            Console.SetIn(new StringReader("1000.5\n"));
+            testAccount.top_up();
+            Assert.AreEqual(4200.5f, testAccount.sum);
+        }
+
+        public void umen()
+        {
+            testAccount.sum = 1500;
+            Console.SetIn(new StringReader("200\n"));
+
+            testAccount.umen();
+            Assert.AreEqual(1300, testAccount.sum);
+              
+            
+        }
     }
 }
