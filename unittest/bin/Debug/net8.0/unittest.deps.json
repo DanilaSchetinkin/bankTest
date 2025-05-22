@@ -547,7 +547,10 @@
           "NUnit": "3.14.0"
         },
         "runtime": {
-          "banktest.dll": {}
+          "banktest.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
